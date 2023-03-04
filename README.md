@@ -1,3 +1,11 @@
+# json1-presence
+
+A fork of [json1](https://github.com/ottypes/json1) that adds support for [ShareDB Presence](https://share.github.io/sharedb/presence).
+
+Borne of frustration that the pull request [Proposal – Add support for presences #25](https://github.com/ottypes/json1/pull/25) went unmeged for years, this fork was created to unblock implementation of presence cursors in [VZCode](https://github.com/vizhub-core/vzcode/issues/16) and [VizHub](https://vizhub.com/). If that PR one day gets merged, this package will become deprecated.
+
+Original README below...
+
 # JSON1
 
 > Status: Usable in practice, but contains a couple super obscure known bugs. See below for details.
