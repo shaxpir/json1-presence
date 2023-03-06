@@ -1,6 +1,6 @@
 {
   "name": "ot-json1-presence",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "JSON OT type with presence",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
