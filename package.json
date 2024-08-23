@@ -1,5 +1,5 @@
 {
-  "name": "ot-json1-presence",
+  "name": "@shaxpir/ot-json1-presence",
   "version": "2.1.0",
   "description": "JSON OT type with presence",
   "main": "dist/index.js",
@@ -32,7 +32,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:vizhub-core/json1-presence.git"
+    "url": "git@github.com:shaxpir/json1-presence.git"
   },
   "keywords": [
     "ot",
@@ -41,7 +41,7 @@
   "author": "Joseph Gentle <me@josephg.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vizhub-core/json1-presence/issues"
+    "url": "https://github.com/shaxpir/json1-presence/issues"
   },
-  "homepage": "https://github.com/vizhub-core/json1-presence"
+  "homepage": "https://github.com/shaxpir/json1-presence"
 }
