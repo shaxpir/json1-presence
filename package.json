@@ -1,6 +1,6 @@
 {
   "name": "@shaxpir/ot-json1-presence",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "description": "JSON OT type with presence",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
