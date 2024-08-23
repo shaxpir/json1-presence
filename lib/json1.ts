@@ -36,8 +36,8 @@ function assert(pred: any, msg?: string): asserts pred {
 let debugMode = false
 
 export const type = {
-  name: 'p',
-  uri: 'p',
+  name: 'json1',
+  uri: "http://sharejs.org/types/JSONv1",
   readCursor,
   writeCursor,
 
